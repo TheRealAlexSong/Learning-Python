@@ -16,5 +16,5 @@ def commaConvert(userEntry):
     return converted # return the result
 
 # define the input list and call the function
-userEntry = ['apples', 'bananas', 'tofu', 'cats'] # list is defined here
+userEntry = ['beans', 'greens', 'potatoes', 'tomatoes'] # list is defined here
 commaConvert(userEntry) # call the function with the list argument
